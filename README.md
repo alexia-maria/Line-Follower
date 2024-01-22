@@ -30,6 +30,11 @@ The chassis was designed and built by our team, using a material similar to carb
   <img src="Line-Follower-picture.jpeg" alt="Line-Follower-picture" width="500">
 </p>
 
+# Electrical Schematic
+<p align="center">
+  <img src="lineFollowerElectrical.png" alt="Circuit Diagram" width="500">
+</p>
+
 # Functionality
 For the grading we had 3 tries, meaning the robot had to complete 3 consecutive laps on the final track. In order to get the maximum grade, the track had to be completed in less than 20 seconds. In the video linked below is displayed the first lap, where the robot completed the track in aprox. 17 seconds. On the second lap, the robot completed the track faster, scoring a time of aprox. 16 seconds.
 
